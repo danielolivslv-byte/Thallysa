@@ -1,0 +1,17 @@
+{
+  "name": "Thallysa Pinheiro — Advocacia e Consultoria Jurídica",
+  "short_name": "Thallysa Pinheiro",
+  "description": "Advocacia de excelência e consultoria jurídica especializada com atendimento digital em todo o Brasil.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F6F2",
+  "theme_color": "#193126",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
